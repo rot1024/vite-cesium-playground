@@ -1,0 +1,20 @@
+{
+  "name": "vite-cesium-playground",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/rot1024/vite-cesium-playground.git",
+  "author": "rot1024 <aayhrot@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5",
+    "vite": "^4.1.4",
+    "vite-plugin-cesium": "^1.2.22"
+  },
+  "dependencies": {
+    "cesium": "^1.103.0"
+  }
+}
